@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Q3 Sensor Reader</string>
+    <string name="title">Live Sensor Dashboard</string>
+    <string name="subtitle">Reads and displays accelerometer, light and proximity sensor values in real time.</string>
+    <string name="accelerometer">Accelerometer</string>
+    <string name="light_sensor">Light Sensor</string>
+    <string name="proximity_sensor">Proximity Sensor</string>
+    <string name="waiting_for_data">Waiting for sensor data…</string>
+    <string name="sensor_ready">Sensor available on this device.</string>
+    <string name="sensor_unavailable">Sensor not available on this device.</string>
+</resources>

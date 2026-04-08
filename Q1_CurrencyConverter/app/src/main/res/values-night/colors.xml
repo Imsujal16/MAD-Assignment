@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="surface">#10161C</color>
+    <color name="hero_surface">#17232A</color>
+    <color name="card_surface">#18212B</color>
+    <color name="card_stroke">#2A3642</color>
+    <color name="text_primary">#F2F7FA</color>
+    <color name="text_secondary">#A9BBC4</color>
+    <color name="accent">#2CB092</color>
+    <color name="accent_soft">#1F3732</color>
+</resources>

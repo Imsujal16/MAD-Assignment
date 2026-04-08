@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Q4 Camera Gallery</string>
+    <string name="title">Camera to Gallery</string>
+    <string name="subtitle">Capture images into a chosen folder, browse them in a grid, and manage details.</string>
+    <string name="choose_folder">Choose Folder</string>
+    <string name="capture_photo">Capture Photo</string>
+    <string name="refresh_gallery">Refresh Gallery</string>
+    <string name="gallery_heading">Gallery View</string>
+    <string name="empty_state">Choose a folder and start capturing photos to populate the gallery.</string>
+    <string name="no_folder_selected">No folder selected</string>
+    <string name="choose_folder_prompt">Pick a folder on the device to save and display photos.</string>
+    <string name="selected_folder">Selected folder</string>
+    <string name="folder_name">Folder: %1$s</string>
+    <string name="folder_location">Location: %1$s</string>
+    <string name="select_folder_first">Choose a folder first.</string>
+    <string name="unable_to_write_folder">This folder cannot be used for saving photos.</string>
+    <string name="file_create_failed">Unable to create an image file in the selected folder.</string>
+    <string name="photo_saved">Photo saved successfully.</string>
+    <string name="camera_permission_denied">Camera permission is required to take photos.</string>
+    <string name="folder_not_available">The previously selected folder is no longer available.</string>
+    <string name="unnamed_image">Untitled image</string>
+    <string name="unknown_value">Unknown</string>
+    <string name="back">Back</string>
+    <string name="image_details">Image Details</string>
+    <string name="title_label">Image title</string>
+    <string name="file_name_label">Stored file name</string>
+    <string name="folder_label">Saved in folder</string>
+    <string name="location_label">Storage location</string>
+    <string name="size_label">File size</string>
+    <string name="date_taken_label">Date taken</string>
+    <string name="delete">Delete Image</string>
+    <string name="delete_dialog_title">Delete image?</string>
+    <string name="delete_dialog_message">This action will remove the image from the selected folder.</string>
+    <string name="image_deleted">Image deleted successfully.</string>
+    <string name="delete_failed">Unable to delete this image.</string>
+</resources>
