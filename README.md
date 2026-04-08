@@ -1,4 +1,4 @@
-# MAD Assignment Projects
+# MAD-Assignment / Projects
 
 This workspace contains four separate Android Studio projects written in Java, one for each assignment question.
 
